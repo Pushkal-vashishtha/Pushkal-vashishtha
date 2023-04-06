@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
    𝗛𝗘𝗟𝗟𝗢 𝗬𝗢𝗨 !
   <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40px" />
 </h1>
@@ -102,7 +101,7 @@
 
 <h1>
   Connect With Me
-  <img src="GIF/Handshake.gif" height="25px">
+  <img src="https://media.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" height="35px">
   <p>
   <a href="https://www.linkedin.com/in/pushkal-vashishtha-54701a185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pushkal-vashishtha-54701a185/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_pushkal_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_pushkal_7_/" height="30" width="40" /></a>
