@@ -1,18 +1,18 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
+  𝐇ELLO YOU!
+  <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40px" />
 </h1>
 
 <br/>
 <br/>
 
 
-- 🔭 I'm currently working on **Language Processing Models.**
-- 🌱 I'm currently learning **DevOps and Competitive Programming.**
-- 👯 I'm looking to collaborate on **Machine Learning, Web Development or Data Science**
+- 🔭 I'm currently working on **Creating my own rendition of Websites and Apps**
+- 🌱 I'm currently learning **Web , Android App Development and Competitive Programming.**
+- 👯 I'm looking to collaborate on **App Development, Web Development or Java Full Stack**
 - 😄 Pronouns : **He/Him/His**
-- 🥶  **Coder, Athlete, Professional Gamer**
+- 🥶  **Coder, Cinephile and Part-time Cricketer**
 
 <br/>
 <br/>
@@ -103,9 +103,14 @@
 <h1>
   Connect With Me
   <img src="GIF/Handshake.gif" height="25px">
+  <p>
+  <a href="https://www.linkedin.com/in/pushkal-vashishtha-54701a185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pushkal-vashishtha-54701a185/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_pushkal_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_pushkal_7_/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pushkalvas730/ "target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pushkalvas730/" height="30" width="40" /></a>
+<a href="https://leetcode.com/pushkal_7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/liuyaanng/Blog_source@master/blog_images/LeetCode_Daily_Question/leetcode.png" alt="https://leetcode.com/pushkal_7/" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/pareshi_1" target="blank"><img align="center" src="https://www.mycplus.com/mycplus/wp-content/uploads/2018/03/codechef-1536x750.jpg" alt="https://www.codechef.com/users/pareshi_1" height="30" width="40" /></a>
+</p>
 </h1>
-
-
 <br/>
 
 
