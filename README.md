@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇ELLO YOU!
+   𝗛𝗘𝗟𝗟𝗢 𝗬𝗢𝗨 !
   <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40px" />
 </h1>
 
