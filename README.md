@@ -33,7 +33,7 @@
 <p align="center">
   <img height="150" width="150" src="https://raw.githubusercontent.com/Pushkal-vashishtha/Pushkal-vashishtha/main/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pushkal-vashishtha&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="WEBP/right.webp">
+  <img height="150" width="150" src="https://raw.githubusercontent.com/Pushkal-vashishtha/Pushkal-vashishtha/main/right.webp">
 </p>
 
 
