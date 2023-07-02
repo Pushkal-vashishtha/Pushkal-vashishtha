@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on **Creating my own rendition of Websites and Apps**
 - 🌱 I'm currently learning **Web , Android App Development and Competitive Programming.**
-- 👯 I'm looking to collaborate on **App Development, Web Development or Java Full Stack**
+- 👯 I'm looking to collaborate on **App Development, Web Development or Java Full Stack**  
 - 😄 Pronouns : **He/Him/His**
 - 🥶  **Coder, Cinephile and Part-time Cricketer**
 
