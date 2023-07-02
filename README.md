@@ -103,7 +103,7 @@
   Connect With Me
   <img src="https://media.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" height="35px">
   <p>
-  <a href="https://www.linkedin.com/in/pushkal-vashishtha-54701a185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pushkal-vashishtha-54701a185/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pushkal-vashishtha-54701a185/" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pushkal-vashishtha-54701a185/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_pushkal_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_pushkal_7_/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pushkalvas730/ "target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pushkalvas730/" height="30" width="40" /></a>
 <a href="https://leetcode.com/puru_730/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/liuyaanng/Blog_source@master/blog_images/LeetCode_Daily_Question/leetcode.png" alt="https://leetcode.com/pushkal_7/" height="30" width="40" /></a>
