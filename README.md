@@ -18,7 +18,6 @@
 
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/Pushkal-vashishtha" alt="Profile Views"> •  
   <img alt="Github followers" src="https://img.shields.io/github/followers/Pushkal-vashishtha?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/Pushkal-vashishtha?label=Stars" alt="Total Stars"> •
   <a href="https://github.com/sponsors/Pushkal-vashishtha"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
@@ -84,9 +83,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pushkal-vashishtha&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 </p>
 </details>
-<br/>
-
-![Github Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pushkal-vashishtha&theme=react-dark&hide_border=true&area=true)
 
 
 <br/>
