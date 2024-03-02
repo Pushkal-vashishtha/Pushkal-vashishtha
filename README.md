@@ -1,20 +1,22 @@
-<h1 align="center">
-   𝗛𝗘𝗟𝗟𝗢 𝗬𝗢𝗨 !
-  <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40px" />
-</h1>
+# Hey there :wave:
 
-<br/>
-<br/>
+<img src="https://assets.leetcode.com/users/avatars/avatar_1663080041.png" alt="Hello world">
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
-- 🔭 I'm currently working on **Creating my own rendition of Websites and Apps**
-- 🌱 I'm currently learning **Web , Android App Development and Competitive Programming.**
-- 👯 I'm looking to collaborate on **App Development, Web Development or Java Full Stack**  
-- 😄 Pronouns : **He/Him/His**
-- 🥶  **Coder, Cinephile and Part-time Cricketer**
+## About me
+👋 Hey there! I'm Pushkal Vashishtha, a passionate coder, cinephile, and part-time cricketer. With a keen interest in crafting exceptional digital experiences, I'm currently immersed in the realms of web and Android app development, alongside honing my skills in competitive programming. Whether it's bringing websites to life or engineering innovative applications, I thrive on the creative challenges of the tech world.
 
-<br/>
-<br/>
+🌐 In my journey as a developer, I'm all about crafting my own rendition of websites and apps, blending functionality with sleek design to deliver seamless user experiences. From diving into the intricacies of web technologies to mastering the intricacies of React-Native App Development, I'm constantly pushing the boundaries of my skills.
+
+🤝 Collaboration fuels my passion, and I'm eager to partner with like-minded individuals in the realms of app development, web development, or Java full stack projects. Together, we can harness our collective expertise to build cutting-edge solutions that make a real impact.
+
+💬 When I'm not immersed in lines of code, you can find me exploring the latest cinematic releases, dissecting plot twists, or hitting the cricket pitch for some friendly competition. With a love for both the digital and the analog worlds, I bring a diverse perspective to everything I do.
+
+😄 Feel free to connect with me, share ideas, or simply chat about all things tech, movies, or cricket! And remember, the code is just the beginning of the story we're crafting together.
 
 
 <p align="center">
