@@ -24,21 +24,11 @@
   <img src="https://img.shields.io/github/stars/Pushkal-vashishtha?label=Stars" alt="Total Stars"> •
   <a href="https://github.com/sponsors/Pushkal-vashishtha"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
-
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Rekklessss&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
-
-
-
 <p align="center">
   <img height="150" width="150" src="https://raw.githubusercontent.com/Pushkal-vashishtha/Pushkal-vashishtha/main/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pushkal-vashishtha&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="https://raw.githubusercontent.com/Pushkal-vashishtha/Pushkal-vashishtha/main/right.webp">
 </p>
-
-
-
-<img align="left" height="300px" width="300px" alt="GIF" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
@@ -90,13 +80,6 @@
 <br/>
 
 
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
-
-
 <h1>
   Connect With Me
   <img src="https://media.tenor.com/6ph1w40DrykAAAAj/handshake-joypixels.gif" height="35px">
@@ -109,9 +92,6 @@
 </p>
 </h1>
 <br/>
-
-
-
 <br/>
 <br/>
 
