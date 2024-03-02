@@ -1,12 +1,4 @@
 # Hey there :wave:
-
-<img src="https://assets.leetcode.com/users/avatars/avatar_1663080041.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
 ## About me
 👋 Hey there! I'm Pushkal Vashishtha, a passionate coder, cinephile, and part-time cricketer. With a keen interest in crafting exceptional digital experiences, I'm currently immersed in the realms of web and Android app development, alongside honing my skills in competitive programming. Whether it's bringing websites to life or engineering innovative applications, I thrive on the creative challenges of the tech world.
 
@@ -17,7 +9,6 @@
 💬 When I'm not immersed in lines of code, you can find me exploring the latest cinematic releases, dissecting plot twists, or hitting the cricket pitch for some friendly competition. With a love for both the digital and the analog worlds, I bring a diverse perspective to everything I do.
 
 😄 Feel free to connect with me, share ideas, or simply chat about all things tech, movies, or cricket! And remember, the code is just the beginning of the story we're crafting together.
-
 
 <p align="center">
   <img alt="Github followers" src="https://img.shields.io/github/followers/Pushkal-vashishtha?label=Followers&style=social"> •
