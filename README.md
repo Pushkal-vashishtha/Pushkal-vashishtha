@@ -66,9 +66,9 @@ I'm a B.Tech undergrad at IIIT Bhopal. I'm passionate about developing mobile ap
 
 <br clear="both">
 
-![snake gif](https://github.com/Pushkal-vashishtha/Pushkal-vashishtha/blob/output/github-contribution-grid-snake.gif)
 
-###
+
+![snake gif](https://github.com/Pushkal-vashishtha/Pushkal-vashishtha/blob/output/github-contribution-grid-snake.svg)
 
 
 
